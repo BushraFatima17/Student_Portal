@@ -65,5 +65,3 @@ The program uses object-oriented programming with these main classes:
 4. Push to the branch
 5. Create a pull request
 
-## License
-This project is open-source and available under the MIT License.

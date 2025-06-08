@@ -49,19 +49,11 @@ The program uses object-oriented programming with these main classes:
 ## Limitations
 - No persistent data storage (all data is lost when program exits)
 - Basic authentication (no proper password management)
-- Limited error handling
 - Console-based interface only
 
 ## Future Improvements
 - Add database connectivity for data persistence
 - Implement proper authentication system
-- Add more robust error handling
 - Develop graphical user interface
 
-## How to Contribute
-1. Fork the repository
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to the branch
-5. Create a pull request
 
